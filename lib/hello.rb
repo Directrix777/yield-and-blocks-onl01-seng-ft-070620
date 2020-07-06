@@ -1,4 +1,4 @@
-def hello_t(names)
+def hello_t(names){code}
   yielding_with_args(names){block}
 end
 
